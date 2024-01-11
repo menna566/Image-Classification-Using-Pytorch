@@ -1,0 +1,4 @@
+Model,Number of Conv Layers,Batch Normalization,Weight Decay,Learning Rate Scheduler,Learning Rate,optimizer,Loss Function,Accuracy,precision,recall,f1-score,Nuumber of Epochs
+First Model,3,No,No,No,0.001,Adam,CrossEntropyLoss,0.79,0.82,0.83,0.83,20
+Second Model,4,Yes,Yes,Yes,0.001,Adam,CrossEntropyLoss,0.86,0.88,0.9,0.89,50
+Third Model,4,Yes,Yes,Yes,0.001,Adam,CrossEntropyLoss,0.87,0.91,0.92,0.91,100
