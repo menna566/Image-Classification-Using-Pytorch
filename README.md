@@ -44,3 +44,6 @@ I got :
 
 
 ![Screenshot 2024-01-11 033055](https://github.com/menna566/Image-Classification-Using-Pytorch/assets/73045024/96c39912-6e93-42e7-9440-5e56dcbbf6f5)
+
+## Improvment :
+we can improve the model using ResNet as it gives better accuracy 
